@@ -1,0 +1,11 @@
+# Django stuff:
+*.log
+*.html
+*.pyc
+*.txt
+*.xml
+
+# PyBuilder
+.cache
+conf/
+config/
