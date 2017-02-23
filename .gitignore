@@ -4,8 +4,9 @@
 *.pyc
 *.txt
 *.xml
+.cache
 
 # PyBuilder
-.cache
+.idea/
 conf/
 config/
