@@ -1,12 +1,5 @@
-# Django stuff:
+.idea/
+*.pyc
 *.log
 *.html
-*.pyc
-*.txt
-*.xml
-.cache
-
-# PyBuilder
-.idea/
-conf/
-config/
+*.cache
