@@ -1,0 +1,20 @@
+DEVICEMODE: OPPO R9km
+DEVICESIZE: 1080*1920
+APPVERSION: 5.9.5
+APPNAME: com.daling.daling
+SYSTEMVERSION: 5.1
+UID: 15015054
+CHANNELID: 000
+CHANNELNAME: 官网
+ham: WIFI
+ACCESSTOKEN: 9c827182de0d5e7195498d7ee42489e5_3_1
+PLATFORM: android
+CLIENTID: 862526033148157
+DLTOKEN: 33f5433c909157498e82941baacf27ac
+DLFINGER: 701b54e105f725c6955b67c0208e273b
+charsert: utf-8
+Connection: Close
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1; OPPO R9km Build/LMY47I)
+Host: m.ymall.com
+Accept-Encoding: gzip
